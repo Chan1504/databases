@@ -1,0 +1,6 @@
+{
+  "name": "Part & Ward Search",
+  "description": "Search voter records by name, part number, and ward number, with printable slips and PDF download.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
